@@ -1,56 +1,43 @@
-### Hi there, I'm [Anurag!](https://anuraghazra.github.io) 👋
+<h2> Hi there, I'm Henry!</h2>
+<p><em>Remote Full-stack web developer ready for adventure</em>
+  
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a>
+A little more about me...  
 
-<br />
-<br />
+```javascript
+const henrykc = {
+  mySkill: "Front-end developer" || "Full-stack web developer",
+  pronouns: ["he", "his"],
+  code: [JavaScript, React, Redux, React Native, HTML/CSS, Semantic UI, Bootstrap],
+  askMeAbout: [Football, Chess],
+  challenge: "I am honing my Ruby and Rails",
+  funFacts: ['Coding stops me from sleeping'],
+  work: "Currently a Microverse student"
+}
+```
 
-Hi, I'm Anurag Hazra, a passionate self-taught FrontEnd developer from India.
+<!--START_SECTION:waka-->
 
-- 🔭 I’m currently working on [renderless-components](https://github.com/timelessco/renderless-components)
-- 🌱 I’m currently learning Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+<!--END_SECTION:waka-->
 
-**Languages and Tools:**  
+<br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<h3 align="center">GitHub Statistics:</h3>
 
-<!--- 
-  if you have forked this to use on your profile, 
-  Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
---->
+<p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=henrykc24&show_icons=true&locale=en" alt="Henry" /></p>
 
-<!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=henrykc24&theme=radical" alt="Henry" /></p>
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/henrykc24/github-readme-stats)*
+<h3 align="center">Let's Connect 🤝</h3>
+<div align="center">
+<a target="_blank"
+href="https://www.linkedin.com/in/henry-kc/"><img
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
+href="mailto:henrykc24@gmail.com"><img
+src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
+href="https://twitter.com/henrykc24"><img
+src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
+<div/>
 
 
-<a href="https://github.com/henrykc24/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.henrykc241.vercel.app/api?username=henrykc24&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Henry's github stats" />
-</a>
-<a href="https://github.com/henrykc24/github-readme-stats">
-  <!-- Change the `github-readme-stats.henrykc241.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.henrykc241.vercel.app/api/top-langs/?username=henrykc24&layout=compact&theme=material-palenight" />
-</a>
-
-<a href="https://github.com/henrykc24/github-readme-stats">
-  <!-- Change the `github-readme-stats.henrykc241.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.henrykc241.vercel.app/api/pin/?username=henrykc24&repo=github-readme-stats&theme=material-palenight" />
-</a>    
-<a href="https://github.com/henrykc24/henrykc24.github.io">
-  <!-- Change the `github-readme-stats.henrykc241.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.henrykc241.vercel.app/api/pin/?username=henrykc24&repo=henrykc24.github.io&theme=material-palenight" />
-</a>
+<p>You can check out my portfolio <a href="https://henrykc24.github.io/my-portfolio/">here</a></p>
