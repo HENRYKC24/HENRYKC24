@@ -12,7 +12,7 @@ const henrykc = {
   code: [JavaScript, React, Redux, React Native, HTML/CSS, Ruby, Rails, Semantic UI, Bootstrap],
   askMeAbout: [Football, Chess, Music],
   challenge: "I am honing my Ruby and Rails skills",
-  funFacts: ['Coding stops me from sleeping'],
+  funFacts: ['I literally envision the coding aspect of virtually everything'],
   work: "Currently a Microverse student"
 }
 ```
