@@ -6,6 +6,7 @@ A little more about me...
 
 ```javascript
 const henrykc = {
+  openToWork: "True",
   mySkill: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
   code: [JavaScript, React, Redux, React Native, HTML/CSS, Semantic UI, Bootstrap],
