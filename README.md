@@ -9,8 +9,8 @@ const henrykc = {
   openToWork: "True",
   mySkill: "Front-end developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
-  code: [JavaScript, React, Redux, React Native, HTML/CSS, Semantic UI, Bootstrap],
-  askMeAbout: [Football, Chess],
+  code: [JavaScript, React, Redux, React Native, HTML/CSS, Ruby, Rails, Semantic UI, Bootstrap],
+  askMeAbout: [Football, Chess, Music],
   challenge: "I am honing my Ruby and Rails",
   funFacts: ['Coding stops me from sleeping'],
   work: "Currently a Microverse student"
