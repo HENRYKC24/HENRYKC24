@@ -7,13 +7,13 @@ A little more about me...
 ```javascript
 const henrykc = {
   openToWork: "True",
-  mySkill: "Front-end developer" || "Full-stack web developer",
+  mySkill: "React Native developer" || "Full-stack web developer",
   pronouns: ["he", "his"],
   techStack: [JavaScript, React, Redux, React Native,Node, Express, MySQL, MongoDB, HTML/CSS, Ruby, Rails, Semantic UI, Bootstrap],
   askMeAbout: [Football, Music],
   challenge: "I am honing my Ruby and Rails skills",
   funFacts: ['I literally envision the coding aspect of virtually everything'],
-  work: "Currently a Microverse student"
+  work: "Currently a Technical Support Engineer/student at Microverse Inc."
 }
 ```
 
