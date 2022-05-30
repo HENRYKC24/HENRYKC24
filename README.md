@@ -11,9 +11,9 @@ const henrykc = {
   pronouns: ["he", "his"],
   techStack: [JavaScript, React, Redux, React Native,Node, Express, MySQL, MongoDB, HTML/CSS, Ruby, Rails, Semantic UI, Bootstrap],
   askMeAbout: [Football, Music],
-  challenge: "I am honing my Ruby and Rails skills",
+  challenge: "I am working on a mobile app that I hope will be used by millions",
   funFacts: ['I literally envision the coding aspect of virtually everything'],
-  work: "Currently a Technical Support Engineer/student at Microverse Inc."
+  work: "Currently a Technical Support Engineer/Graduate at Microverse Inc. US. I work remotely."
 }
 ```
 
