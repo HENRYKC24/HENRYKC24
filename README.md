@@ -13,7 +13,7 @@ const henrykc = {
   askMeAbout: [Football, Music],
   challenge: "I am working on a mobile app that I hope will be used by millions",
   funFacts: ['I literally envision the coding aspect of virtually everything'],
-  work: "Currently a Technical Support Engineer/Graduate at Microverse Inc. US. I work remotely."
+  work: "Currently a Technical Support Engineer/Code Reviewer at Microverse Inc. US. I work remotely."
 }
 ```
 
