@@ -1,4 +1,4 @@
-<h2> Hi there, I'm Henry!</h2>
+<h2> Hi there, I'm Henry Kc!</h2>
 <p><em>Remote Full-stack web developer ready for adventure</em>
   
 
