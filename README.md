@@ -9,11 +9,10 @@ const henrykc = {
   openToWork: "True",
   mySkill: "Full stack developer" || "React Native developer",
   pronouns: ["he", "his"],
-  techStack: [JavaScript, React, VueJS, Redux, React Native,Node, Express, MySQL, MongoDB, HTML/CSS, Ruby, Rails, Semantic UI, Bootstrap],
+  techStack: [JavaScript, React, VueJS, Redux, React Native, Node, Express, MySQL, MongoDB, HTML/CSS, Ruby, Rails, Semantic UI, Bootstrap],
   askMeAbout: [Football, Music],
-  challenge: "I am working on a mobile app that I hope will be used by millions",
-  funFacts: ['I literally envision the coding aspect of virtually everything'],
-  work: "Currently a full-stack software engineer at Woobie Inc. US. I work remotely."
+  funFacts: ['I envision the coding aspect of virtually everything'],
+  work: "Open to work, loves working remotely"
 }
 ```
 
