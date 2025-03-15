@@ -9,9 +9,9 @@ const henrykc = {
   openToWork: "True",
   mySkill: ["Full stack developer", "React Native developer"],
   pronouns: ["he", "his"],
-  techStack: [JavaScript, React, VueJS, Redux, React Native, Node, Express, MySQL, MongoDB, HTML/CSS, Ruby, Rails, Semantic UI, Bootstrap],
-  askMeAbout: [Football, Music],
-  funFacts: ['I envision the coding aspect of virtually everything'],
+  techStack: ["JavaScript", "React", "VueJS", "Redux", "React", "Native", "Node", "Express", "MySQL", "MongoDB", "HTML/CSS", "Ruby", "Rails", "Semantic UI", "Bootstrap"],
+  askMeAbout: ["Football", "Music"],
+  funFacts: "I envision the coding aspect of virtually everything",
   work: "Open to work, loves working remotely"
 }
 ```
